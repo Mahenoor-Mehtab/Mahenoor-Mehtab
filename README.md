@@ -19,9 +19,7 @@
 
 </div>
 
-
-<!-- <img align="right" width="36%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
-
+---
 
 ```typescript
 const mahenoor: Developer = {
@@ -34,8 +32,6 @@ const mahenoor: Developer = {
   funFact:      "I debug better at 2AM than most people do at noon 🌙",
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -169,8 +165,6 @@ const mahenoor: Developer = {
 
 ---
 
----
-
 > *"I don't fear hard problems. I just break them into smaller ones."* 🧠
 
 ---
@@ -182,21 +176,17 @@ const mahenoor: Developer = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahenoor-Mehtab&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&border_radius=12" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=Mahenoor-Mehtab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=CDD6F4&border_radius=12&count_private=true" width="49%" />
 
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahenoor-Mehtab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&border_radius=12" width="42%" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenoor-Mehtab&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 
 </div>
 
 ---
+
 ## 🎮 Fun Developer Stats
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" align="center">
@@ -223,8 +213,6 @@ const mahenoor: Developer = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%" alt="Dev Quote"/>
 
-<br/>
-
 ### 😄 Dev Humor
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
@@ -232,7 +220,6 @@ const mahenoor: Developer = {
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -246,8 +233,6 @@ const mahenoor: Developer = {
 | *"I don't just write code — I architect experiences."* <br/><br/> **— Mahenoor's Rule #1** | *"404: Comfort Zone Not Found."* <br/> *And I'm not looking for it.* <br/><br/> **— Every Deploy Friday** |
 | *"First understand the problem. Then write the code. Then refactor at 2AM."* <br/><br/> **— Real Developer Lifecycle** | *"An app a day keeps unemployment away."* <br/><br/> **— Build in Public Philosophy** |
 
-<br/>
-
 ### ✨ My Personal Mantra
 
 ```javascript
@@ -260,6 +245,7 @@ function mahenoorMantra() {
 </div>
 
 ---
+
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -270,36 +256,34 @@ function mahenoorMantra() {
 <tr>
 <td align="center" width="25%">
 <a href="https://linkedin.com/in/mahenoor-mehtab" target="_blank">
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="80"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="60" height="60"/>
 <br><strong>LinkedIn</strong>
 <br>Let's Network!
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/Mahenoor-Mehtab" target="_blank">
-<img src="https://img.icons8.com/fluency/96/github.png" width="80"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="60" height="60"/>
 <br><strong>GitHub</strong>
 <br>Check My Code
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://dev.to/mahenoor_mehtab_fddf06877" target="_blank">
-<img src="https://img.icons8.com/windows/96/A78BFA/dev.png" width="80"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="60" height="60"/>
 <br><strong>Dev.to</strong>
 <br>Read My Blogs
 </a>
 </td>
 <td align="center" width="25%">
 <a href="mailto:mahenoormehtab31@gmail.com" target="_blank">
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="80"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" width="60" height="60"/>
 <br><strong>Email</strong>
 <br>Get In Touch
 </a>
 </td>
 </tr>
 </table>
-
-<br/>
 
 ### 🎯 Ready to Collaborate?
 
@@ -323,19 +307,11 @@ function mahenoorMantra() {
 
 <img src="https://komarev.com/ghpvc/?username=Mahenoor-Mehtab&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" />
 
-<br/><br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%F0%9F%92%96;Let%27s+connect+and+build+together!+%F0%9F%8C%B1;Always+open+to+new+opportunities!+%F0%9F%9A%80;Star+a+repo+if+you+liked+it!+%E2%AD%90)](https://git.io/typing-svg)
-
-<br/>
 
 *✨ If you found this profile helpful, don't forget to star a repo! ⭐*
 
-<br/>
-
 **💜 Built with passion, chai & clean code by Mahenoor Mehtab 💜**
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
