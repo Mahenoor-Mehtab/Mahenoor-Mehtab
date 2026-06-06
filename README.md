@@ -174,9 +174,9 @@ const mahenoor: Developer = {
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Mahenoor-Mehtab&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&border_radius=12" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Mahenoor-Mehtab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=CDD6F4&border_radius=12&count_private=true" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Mahenoor-Mehtab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=CDD6F4&border_radius=12&count_private=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahenoor-Mehtab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&border_radius=12" width="42%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahenoor-Mehtab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&border_radius=12" width="42%" /> --> 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahenoor-Mehtab&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 
@@ -208,7 +208,7 @@ const mahenoor: Developer = {
 </td>
 <td align="center" width="25%">
 <a href="https://dev.to/mahenoor_mehtab_fddf06877" target="_blank">
-<img src="https://img.icons8.com/color/96/dev-to.png" width="80"/>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="50"/>
 <br><strong>Dev.to</strong>
 <br>Read My Blogs
 </a>
