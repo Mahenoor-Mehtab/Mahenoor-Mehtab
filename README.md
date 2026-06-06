@@ -1,10 +1,11 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mahenoor%20Mehtab&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20things%20that%20matter%20%E2%80%94%20one%20commit%20at%20a%20time%20%F0%9F%96%A4&descAlignY=60&descSize=18"/>
 </div>
-<h1 align="center" style="font-size:2.5rem;">Hi 👋, I'm Mahenoor Mehtab</h1>
-<h3 align="center" style="font-size:1.4rem;">🚀 Full-Stack Developer · DSA Enthusiast from India</h3>
 
-<p align="center" style="font-size:1.05rem;">
+<h1 align="center">Hi 👋, I'm Mahenoor Mehtab</h1>
+<h3 align="center">🚀 Full-Stack Developer · DSA Enthusiast from India</h3>
+
+<p align="center">
   💻 Building production-grade web apps with MERN stack & Next.js <br/>
   🤖 Exploring Agentic AI, GenAI workflows & LLM-powered products <br/>
   🧠 Sharpening problem-solving skills through DSA — one problem at a time <br/>
@@ -172,7 +173,7 @@ const mahenoor: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahenoor-Mehtab&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&border_radius=12" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Mahenoor-Mehtab&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&border_radius=12" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=Mahenoor-Mehtab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=CDD6F4&border_radius=12&count_private=true" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahenoor-Mehtab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&border_radius=12" width="42%" />
@@ -182,6 +183,7 @@ const mahenoor: Developer = {
 </div>
 
 ---
+
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -206,7 +208,7 @@ const mahenoor: Developer = {
 </td>
 <td align="center" width="25%">
 <a href="https://dev.to/mahenoor_mehtab_fddf06877" target="_blank">
-<img src="https://img.icons8.com/fluency/96/000000/devto.png" width="80"/>
+<img src="https://img.icons8.com/color/96/dev-to.png" width="80"/>
 <br><strong>Dev.to</strong>
 <br>Read My Blogs
 </a>
