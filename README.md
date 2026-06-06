@@ -1,11 +1,10 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mahenoor%20Mehtab&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20things%20that%20matter%20%E2%80%94%20one%20commit%20at%20a%20time%20%F0%9F%96%A4&descAlignY=60&descSize=18"/>
 </div>
+<h1 align="center" style="font-size:2.5rem;">Hi 👋, I'm Mahenoor Mehtab</h1>
+<h3 align="center" style="font-size:1.4rem;">🚀 Full-Stack Developer · DSA Enthusiast from India</h3>
 
-<h1 align="center">Hi 👋, I'm Mahenoor Mehtab</h1>
-<h3 align="center">🚀 Full-Stack Developer · DSA Enthusiast from India</h3>
-
-<p align="center">
+<p align="center" style="font-size:1.05rem;">
   💻 Building production-grade web apps with MERN stack & Next.js <br/>
   🤖 Exploring Agentic AI, GenAI workflows & LLM-powered products <br/>
   🧠 Sharpening problem-solving skills through DSA — one problem at a time <br/>
@@ -15,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+MERN+%2B+Next.js+Developer+%F0%9F%9A%80;shadcn%2Fui+%7C+PostgreSQL+%7C+Prisma+%7C+TypeScript+%E2%9C%A8;DSA+Problem+Solver+%7C+Breaking+Problems+Since+Day+1+%F0%9F%A7%A0;Building+Scalable+Web+Apps+%7C+Clean+Code+%E2%9C%A8;Exploring+AI+%7C+GenAI+%7C+The+Future+Excites+Me+%F0%9F%A4%96;404%3A+Comfort+Zone+Not+Found+%F0%9F%9A%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+MERN+%2B+Next.js+Developer+%F0%9F%9A%80;shadcn%2Fui+%7C+PostgreSQL+%7C+Prisma+%7C+TypeScript+%E2%9C%A8;DSA+Problem+Solver+%7C+Breaking+Problems+Since+Day+1+%F0%9F%A7%A0;Building+Scalable+Web+Apps+%7C+Clean+Code+%E2%9C%A8;Exploring+AI+%7C+GenAI+%7C+The+Future+Excites+Me+%F0%9F%A4%96;404%3A+Comfort+Zone+Not+Found+%F0%9F%9A%AB)](https://git.io/typing-svg)
 
 </div>
 
@@ -183,69 +182,6 @@ const mahenoor: Developer = {
 </div>
 
 ---
-
-## 🎮 Fun Developer Stats
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-### ⚡ My Daily Fuel
-
-![Chai](https://img.shields.io/badge/Chai-3%2B_Cups_Daily-8B4513?style=flat-square&logo=coffeescript&logoColor=white)
-![Lo-fi](https://img.shields.io/badge/Lo--fi_Beats-Always_On-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Commits](https://img.shields.io/badge/Commits-Daily_Ritual-A78BFA?style=flat-square&logo=git&logoColor=white)
-![Peak Hours](https://img.shields.io/badge/Peak_Hours-11PM_to_2AM-0D1117?style=flat-square&logoColor=white)
-
-| Essential | Status |
-|-----------|--------|
-| ☕ Chai | Non-negotiable |
-| 🎵 Lo-fi beats | Infinite loop |
-| 🐛 Debug mode | Permanently ON |
-| 🌙 Midnight ideas | Always arriving |
-| 💡 Stack Overflow | Trusted co-founder |
-
-</td>
-<td width="50%" align="center">
-
-### 🎯 Daily Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%" alt="Dev Quote"/>
-
-### 😄 Dev Humor
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 💬 What Drives Me
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| *"I don't just write code — I architect experiences."* <br/><br/> **— Mahenoor's Rule #1** | *"404: Comfort Zone Not Found."* <br/> *And I'm not looking for it.* <br/><br/> **— Every Deploy Friday** |
-| *"First understand the problem. Then write the code. Then refactor at 2AM."* <br/><br/> **— Real Developer Lifecycle** | *"An app a day keeps unemployment away."* <br/><br/> **— Build in Public Philosophy** |
-
-### ✨ My Personal Mantra
-
-```javascript
-function mahenoorMantra() {
-  const path = learn() + build() + ship() + repeat();
-  return "Dream it. Code it. Ship it. Own it. 🚀";
-}
-```
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -256,28 +192,28 @@ function mahenoorMantra() {
 <tr>
 <td align="center" width="25%">
 <a href="https://linkedin.com/in/mahenoor-mehtab" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="60" height="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/>
 <br><strong>LinkedIn</strong>
 <br>Let's Network!
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/Mahenoor-Mehtab" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="60" height="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="80"/>
 <br><strong>GitHub</strong>
 <br>Check My Code
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://dev.to/mahenoor_mehtab_fddf06877" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="60" height="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/devto.png" width="80"/>
 <br><strong>Dev.to</strong>
 <br>Read My Blogs
 </a>
 </td>
 <td align="center" width="25%">
 <a href="mailto:mahenoormehtab31@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" width="60" height="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="80"/>
 <br><strong>Email</strong>
 <br>Get In Touch
 </a>
